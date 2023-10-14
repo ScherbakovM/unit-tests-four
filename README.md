@@ -25,3 +25,6 @@ Mockito.when( функция ).thenThrow( исключение ));
 ___
 4) Для имитации взаимодействия с внешним API или базой фейки.
 ___
+
+
+[Task Two](https://github.com/ScherbakovM/unit-tests-four/blob/master/src/book_service/BookServiceTest.java)
