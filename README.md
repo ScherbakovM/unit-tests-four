@@ -12,9 +12,11 @@ List mockedList = mock(List.class);
 // Используем мок-объект
 mockedList.add("one");
 mockedList.clear();
+```
 
 // Проверяем, что методы были вызваны с правильными аргументами
-verify(mockedList).add("one");
+```
+verify(mockedList).add("one");   
 verify(mockedList).clear();
 ```
 ___
